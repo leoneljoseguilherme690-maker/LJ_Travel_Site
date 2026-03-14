@@ -1,0 +1,46 @@
+{
+  "destinos": [
+    {
+      "nome": "Bazaruto",
+      "local": "Inhambane",
+      "duracao": "5 dias",
+      "preco": 500,
+      "imagem": "images/bazaruto.jpg"
+    },
+    {
+      "nome": "Vilanculos",
+      "local": "Inhambane",
+      "duracao": "4 dias",
+      "preco": 450,
+      "imagem": "images/vilanculos.jpg"
+    },
+    {
+      "nome": "Tofo Beach",
+      "local": "Inhambane",
+      "duracao": "3 dias",
+      "preco": 350,
+      "imagem": "images/tofo.jpg"
+    },
+    {
+      "nome": "Ponta do Ouro",
+      "local": "Maputo",
+      "duracao": "3 dias",
+      "preco": 300,
+      "imagem": "images/ponta.jpg"
+    },
+    {
+      "nome": "Gorongosa National Park",
+      "local": "Sofala",
+      "duracao": "6 dias",
+      "preco": 600,
+      "imagem": "images/gorongosa.jpg"
+    },
+    {
+      "nome": "Maputo City Tour",
+      "local": "Maputo",
+      "duracao": "2 dias",
+      "preco": 200,
+      "imagem": "images/maputo.jpg"
+    }
+  ]
+}
